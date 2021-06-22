@@ -17,6 +17,8 @@ hmdt = api_data['main']['humidity']
 wind_spd = api_data['wind']['speed']
 date_time = datetime.now().strftime("%d %b %Y | %I:%M:%S %p")
 
+#stores a dictionary named dict1 for storing the data
+#creates a text file named myfile and stores the data into it
 dict1=api_data
 out_file = open("myfile.txt", "w") 
 json.dump(dict1, out_file, indent = 6)
