@@ -1,7 +1,7 @@
 # ShapeAI Python and Cyber Security Bootcamp
 
 
-This is a project done by me as part of the python and cyber security bootcamp conducted by ShapeAI 
+-This is a project done by me as part of the python and cyber security bootcamp conducted by ShapeAI 
 
 # WORKING OF CODE
 
