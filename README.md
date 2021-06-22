@@ -6,6 +6,7 @@
 # WORKING OF CODE
 
 - The python code fetches the weather data by using the openweathermap api.
+- You can use the api by creating an account and generating the api key from here  https://openweathermap.org/api for free.
 - Then the data is stored in a text file named myfile.txt 
 
 
