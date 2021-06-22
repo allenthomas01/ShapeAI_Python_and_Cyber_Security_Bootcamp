@@ -1,4 +1,4 @@
-# ShapeAI_Python_and_Cyber_Security_Bootcamp
+# ShapeAI Python and Cyber Security Bootcamp
 ShapeAI Cyber Security bootcamp project by ALLEN THOMAS
 
 
