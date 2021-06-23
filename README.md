@@ -5,7 +5,7 @@
 
 # Working of code
 
-- The python code fetches the weather data by using the openweathermap api.
+- The python code fetches the weather data by using the weather api.
 - You can use the api by creating an account and generating the api key from here  https://openweathermap.org/api for free.
 - When the code runs you will be asked to enter a city and the api will fetch the weather details for that city.
 - After the code runs the temperature , weather description , humidity , wind speed and the date & time will be returned as output.
